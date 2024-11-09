@@ -7,8 +7,4 @@ plugins:
 
 # 사이트 URL 설정 (필수)
 # GitHub Pages 기본 URL 또는 커스텀 도메인을 사용하는 경우 이를 여기에 입력
-url: "https://github.com/warguss/sitemap-editor"  # GitHub Pages URL
-
-# 기타 기본 설정 (옵션)
-markdown: kramdown
-theme: minima  # 사용할 테마 설정
+url: "https://warguss.github.io # GitHub Pages URL
